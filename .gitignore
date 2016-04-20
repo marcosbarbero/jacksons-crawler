@@ -9,6 +9,7 @@
 *.ear
 
 /target
+/data
 
 # IntelliJ
 *.iml
